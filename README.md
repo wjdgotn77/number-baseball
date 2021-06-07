@@ -1,6 +1,6 @@
 # Mini Web Project - number-baseball
 바닐라코딩 프렙코스 사전학습가이드
-step 4. miniweb project 중 number baseball 을 진행하였습니다 =.
+step 4. miniweb project 중 number baseball 을 진행하였습니다.
 
 ### 스택
 JavaScript / CSS / HTML
