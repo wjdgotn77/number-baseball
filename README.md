@@ -43,3 +43,6 @@ __(여기서는 0을 사용하지 않습니다 1 - 9까지의 숫자를 입력�
 ### 포스팅
 https://velog.io/@haesoohaesoo/Number-Baseball <br />
 프로젝트를 만들며 정리해둔 글의 주소입니다.
+
+😎 완성된 프로젝트! 클릭!
+https://wjdgotn77.github.io/number-baseball/
